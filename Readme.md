@@ -27,4 +27,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=akhi116&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### ☑️ my GitHub Contributions
-[Snake_Animation](https://github.com/akhi116/akhi116/blob/output/github-contribution-grid-snake.svg)
+![Snake_Animation](https://github.com/akhi116/akhi116/blob/output/github-contribution-grid-snake.svg)
